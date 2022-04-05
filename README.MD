@@ -13,7 +13,7 @@
 
 - 🌱 I’m also studying **[Bachelor of Science (Business & IT)](https://www.iu.org/bachelor/business-it)** whew!
 
-- 👯 I’m looking foward to being a software **Software Engeneer Full Time**
+- 👯 I’m looking foward to being a **Software Engeneer Full Time**
 
 - 📫 How to reach me **tshepomcode@gmail.com**
 
