@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🏢 I'm currently employed as a system administrator at **a  hospital**
 
-- 🔭 I’m currently working on **[Full Stack Cloud Development Capstone Project](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)**
+- 🔭 I’m currently working on a **[Full Stack Cloud Development Capstone Project](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)**
 
 - 🌱 I’m currently learning **Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more**
 
