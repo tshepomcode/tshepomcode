@@ -11,8 +11,6 @@
 
 - 🌱 The full stack cloud certificate taught me: **Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more**
 
-- 🌱 I’m also studying **[Bachelor of Science (Business & IT)](https://www.iu.org/bachelor/business-it)** whew!
-
 - 👯 I’m looking foward to being a **Software Engeneer Full Time**
 
 - 📫 How to reach me **tshepomcode@gmail.com**
