@@ -1,17 +1,17 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi, I'm Tshepo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a curious Developer from South Africa.</h3>
+<h3 align="center">I'm a curious Developer/System Admin/IT Support specialist from South Africa.</h3>
 
 
 ## 🙋‍♂️ About Me
-- 🏢 I'm currently employed as a system administrator at **a  hospital**
+- 🏢 I'm learning about data and machine learning.
 
 - 🔭 I completed the **[Full Stack Cloud Development Capstone Project](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)**
 
 - 🌱 The full stack cloud certificate taught me: **Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more**
 
-- 👯 I’m looking foward to being a **Software Engeneer Full Time**
+- 👯 I really enjoy solving problem with software and really looking foward to being a **software developer Full Time**
 
 - 📫 How to reach me **tshepomcode@gmail.com**
 
