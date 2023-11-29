@@ -13,8 +13,6 @@
 
 - 👯 I really enjoy solving problems with software and am really looking foward to being a **software developer Full Time**
 
-- 📫 How to reach me **tshepomcode@gmail.com**
-
 - ⚡ Fun fact **I'm a fan of science fiction opera**
 
 ## 🚀 Languages and Tools:
