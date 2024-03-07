@@ -5,15 +5,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🏢 I'm learning about data and machine learning.
+- 🏢 I'm software developer, thats it. Portfolio projects on the way.
 
-- 🔭 I completed the **[Full Stack Cloud Development Capstone Project](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)**
-
-- 🌱 The full stack cloud certificate taught me: **Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more**
-
-- 👯 I really enjoy solving problems with software and am really looking foward to being a **software developer Full Time**
-
-- ⚡ Fun fact **I'm a fan of science fiction opera**
 
 ## 🚀 Languages and Tools:
 
